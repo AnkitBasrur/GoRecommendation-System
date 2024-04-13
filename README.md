@@ -18,6 +18,16 @@ This project implements a robust product recommendation backend using Golang and
 - **Algorithms**: Incorporates recommendation algorithms for generating personalized suggestions.
 - **GitHub**: Hosted on GitHub for version control and collaboration.
 
+## Screenshots
+
+<img width="1496" alt="Screenshot 2024-04-12 at 12 40 53 AM" src="https://github.com/ameyagidh/GoRecommendation-System/assets/65457905/b06ba73a-327b-4bc1-9015-97a3cd094e78">
+<img width="1496" alt="Screenshot 2024-04-12 at 12 40 40 AM" src="https://github.com/ameyagidh/GoRecommendation-System/assets/65457905/d61ea370-3655-4637-961a-5a14f5ee9ecd">
+<img width="1496" alt="Screenshot 2024-04-12 at 12 40 27 AM" src="https://github.com/ameyagidh/GoRecommendation-System/assets/65457905/d5eee207-94ad-42e9-a055-98051aba1a2d">
+<img width="1496" alt="Screenshot 2024-04-12 at 12 43 13 AM" src="https://github.com/ameyagidh/GoRecommendation-System/assets/65457905/069e7e09-ba5f-4707-8a09-496554ca767b">
+<img width="1496" alt="Screenshot 2024-04-12 at 12 42 54 AM" src="https://github.com/ameyagidh/GoRecommendation-System/assets/65457905/7c79a64b-cb98-4bf8-8875-dc6a562f32e9">
+<img width="1496" alt="Screenshot 2024-04-12 at 12 42 48 AM" src="https://github.com/ameyagidh/GoRecommendation-System/assets/65457905/629aa6be-b7c6-4e20-8b7e-4ed819220288">
+<img width="1496" alt="Screenshot 2024-04-12 at 12 41 03 AM" src="https://github.com/ameyagidh/GoRecommendation-System/assets/65457905/48e83305-f8c5-4c8f-bca6-1a92e80c5d3c">
+
 ## Usage
 
 ### Load Test Data
