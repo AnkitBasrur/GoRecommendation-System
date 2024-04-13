@@ -1,4 +1,4 @@
-# Shopping Recommendation System
+# Product Recommendation System
 
 This project implements a robust product recommendation backend using Golang and Neo4j. The backend provides personalized product recommendations based on customer behavior and preferences.
 
